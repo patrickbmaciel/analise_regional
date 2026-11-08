@@ -1,0 +1,67 @@
+﻿analise,modelo,variavel,efeito,impacto,erro_padrao,p_valor,ic95_inferior,ic95_superior,metodo,unidade
+extrema_queen,SDM,pepov_10,direto,-0.5988895860238549,0.040507499472809474,1.839854443879336e-49,-0.6782828260943367,-0.5194963459533731,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,pepov_10,indireto,0.5880373159916606,0.6972169328926182,0.3990011195412736,-0.7784827618893507,1.9545573938726721,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,pepov_10,total,-0.010852270032194295,0.6962913589675409,0.9875648203232805,-1.3755582563550248,1.3538537162906363,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,GRAD10,direto,-3.361871475104894,0.513870398467881,6.059783000277664e-11,-4.369038948823187,-2.354704001386601,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,GRAD10,indireto,4.273159820762405,5.20558203651067,0.41171444488226805,-5.929593489367177,14.475913130891987,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,GRAD10,total,0.9112883456575109,5.398424297866497,0.8659489569931036,-9.669428851426753,11.492005542741774,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PIND10,direto,0.10896655028129976,0.020477517322210575,1.0304113544465506e-07,0.06883135383697195,0.14910174672562757,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PIND10,indireto,-0.14242657210610424,0.15221292816491383,0.34942450629557753,-0.44075842929071773,0.1559052850785093,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PIND10,total,-0.033460021824804474,0.1509427088140394,0.824567940844342,-0.32930229482923823,0.2623822511796293,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PHA10,direto,0.16637426521938264,0.027546627465949443,1.5436979016492868e-09,0.11238386749057988,0.2203646629481854,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PHA10,indireto,0.4710678599466141,0.6551946738768013,0.47215701063058757,-0.8130901037143827,1.7552258236076108,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,p_PHA10,total,0.6374421251659967,0.6697848753313549,0.3412431967460098,-0.675312107873109,1.9501963582051025,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ln_ptot10,direto,1.8231875433482763,0.6413028080830484,0.004469901685633125,0.5662571363210991,3.0801179503754534,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ln_ptot10,indireto,-0.7405239997977586,4.640086123367605,0.8732019082450843,-9.834925686762343,8.353877687166825,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ln_ptot10,total,1.0826635435505176,5.1482457811671765,0.8334354368968279,-9.007712771097424,11.173039858198461,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ALTID,direto,0.0017314075400583725,0.0014327331977619538,0.22686855364473302,-0.0010766979270099598,0.004539513007126705,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ALTID,indireto,-0.006062384668676743,0.010430014814874784,0.5610759433827952,-0.026504838064050518,0.014380068726697032,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SDM,ALTID,total,-0.00433097712861837,0.010272050550274123,0.673297063002996,-0.024463826254530495,0.015801871997293757,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ppov_10,direto,-0.3565681613665865,0.08052069561487957,9.49876738026456e-06,-0.5143858247818627,-0.19875049795131025,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ppov_10,indireto,0.5483451782527764,0.15019147759709314,0.0002612476987015403,0.2539752913776195,0.8427150651279334,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ppov_10,total,0.19177701688618998,0.12525864303398204,0.1257574866512297,-0.05372541221277374,0.43727944598515367,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,GRAD10,direto,-3.525038379673758,0.6830825725110965,2.463089519714093e-07,-4.863855620262477,-2.1862211390850392,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,GRAD10,indireto,3.759294682828033,1.3837183625007319,0.006591518361959911,1.0472565275798598,6.471332838076206,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,GRAD10,total,0.2342563031542749,1.0997629886255047,0.8313221494182285,-1.9212395460818477,2.3897521523903973,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PIND10,direto,0.06339474552696654,0.011050792082595403,9.655622610646395e-09,0.04173559104443918,0.08505390000949391,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PIND10,indireto,0.005081111207190431,0.02197161904328771,0.8171144254165268,-0.03798247079968788,0.048144693214068744,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PIND10,total,0.06847585673415697,0.020502584605591217,0.0008381924229678803,0.028291529317212842,0.1086601841511011,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PHA10,direto,0.06526013811216835,0.012753098472143289,3.1010698679362094e-07,0.04026452441547472,0.09025575180886199,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PHA10,indireto,0.10539567726206989,0.052209568139019544,0.04351796766929986,0.003066804061201689,0.20772455046293808,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,p_PHA10,total,0.17065581537423824,0.0547470427059342,0.0018259651392715179,0.06335358341053093,0.27795804733794555,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ln_ptot10,direto,0.2790005926131316,0.37463552868607575,0.4564377429885462,-0.45527155094069915,1.0132727361669622,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ln_ptot10,indireto,-0.03613428870865437,0.9069175701457668,0.968218319036851,-1.8136600631409354,1.7413914857236266,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ln_ptot10,total,0.24286630390447722,0.9769067336206201,0.8036644356562174,-1.6718357102466026,2.157568318055557,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ALTID,direto,0.0036742513556007783,0.0009587103568370136,0.00012685087416850933,0.0017952135845946881,0.0055532891266068685,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ALTID,indireto,-0.0031464721016525566,0.0015075562580324888,0.03687601271957059,-0.006101228072064207,-0.00019171613124090593,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+total_queen,SDM,ALTID,total,0.0005277792539482217,0.0013327322429164898,0.6920954599795042,-0.0020843279432033847,0.0031398864510998282,full; delta com covariância White,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,pepov_10,direto,-0.5351430898742865,0.0344213961657101,1.6721645334641615e-54,-0.6026077866566634,-0.4676783930919096,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,GRAD10,direto,-3.293203740720429,0.4469977792550918,1.7401032342807726e-13,-4.169303289229794,-2.417104192211064,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,p_PIND10,direto,0.06765268697442212,0.01586022297429814,1.9940399129341183e-05,0.03656722115802303,0.09873815279082121,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,p_PHA10,direto,0.18265140420236997,0.021202070145731233,7.006926418651436e-18,0.14109611031904487,0.22420669808569507,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,ln_ptot10,direto,2.609472608594018,0.3908392556619642,2.4456955898190086e-11,1.843441743752126,3.37550347343591,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,ALTID,direto,0.0010751259384031847,0.0007157617014937821,0.133078396900226,-0.00032774121803773727,0.002477993094844107,associação local; GMM heterocedástico,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,pepov_10,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,GRAD10,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,p_PIND10,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,p_PHA10,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,ln_ptot10,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_queen,SEM,ALTID,indireto,,,,,,não aplicável: SEM sem canal indireto substantivo,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,pepov_10,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,pepov_10,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,pepov_10,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,GRAD10,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,GRAD10,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,GRAD10,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PIND10,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PIND10,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PIND10,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PHA10,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PHA10,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,p_PHA10,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ln_ptot10,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ln_ptot10,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ln_ptot10,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ALTID,direto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ALTID,indireto,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor
+extrema_knn5,SDM,ALTID,total,,,,,,não calculado: rho inadmissível,p.p. de variação da pobreza por unidade original do regressor

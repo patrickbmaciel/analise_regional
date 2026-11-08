@@ -1,0 +1,11 @@
+﻿analise,modelo,teste,estatistica,p_valor,observacao
+extrema_queen,SDM,I_residual_descritivo,-0.17617651274447815,,
+extrema_queen,SDM,Anselin_Kelejian,6.147678917897758,0.013158468517179146,assintótico; pressupostos discutidos no texto
+extrema_queen,SDM,fator_comum,5.97008120617885,0.4265499535520142,assintótico; pressupostos discutidos no texto
+extrema_queen,SEM,I_residual_descritivo,-0.015316171715654766,,
+extrema_queen,SEM,teste_residual_pos_GMM_heterocedastico,,,não disponível; inovações apenas descritivas
+extrema_knn5,SDM,I_residual_descritivo,-0.22159051081272652,,
+extrema_knn5,SDM,admissibilidade_rho,1.2758269190070308,,inadmissível; sem validação substantiva
+total_queen,SDM,I_residual_descritivo,-0.09370901035674212,,
+total_queen,SDM,Anselin_Kelejian,1.6536137091123724,0.1984677987673714,assintótico; pressupostos discutidos no texto
+total_queen,SDM,fator_comum,22.635311827246102,0.0009282898963599627,assintótico; pressupostos discutidos no texto

@@ -1,0 +1,4 @@
+﻿instrumento_candidato,ano,n_finitos,minimo,maximo,canal_direto_plausivel,decisao
+p_P15AN00,2000,570,2.392344498,74.87906012,capital humano persistente pode afetar diretamente a mudança posterior,não estimar IV: exclusão sem sustentação com os inputs disponíveis
+p_ELEC00,2000,570,1.172332943,100.0,eletricidade pode afetar produtividade e serviços além da pobreza inicial,não estimar IV: exclusão sem sustentação com os inputs disponíveis
+p_NODIR00,2000,570,2.777777778,97.24184326,moradia e riqueza persistentes podem afetar diretamente a trajetória posterior,não estimar IV: exclusão sem sustentação com os inputs disponíveis

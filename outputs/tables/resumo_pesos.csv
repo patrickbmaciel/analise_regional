@@ -1,0 +1,3 @@
+﻿matriz,n,vizinhos_min,vizinhos_max,vizinhos_media,vizinhos_mediana,densidade_pct_n2,ilhas,componentes,arestas_sem_reciproca
+queen,570,1,22,5.8,5.0,1.0175438596491229,0,1,0
+knn5,570,5,5,5.0,5.0,0.8771929824561403,0,1,680
